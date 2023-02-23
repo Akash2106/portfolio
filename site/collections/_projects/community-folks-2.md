@@ -17,6 +17,5 @@ image: /uploads/travander-ii.png
 * Brought together potential inner circle members and created a strategy to activate them
 * Created roadmap for member onboarding and created a well thought out member journey
 * Successfully onboarded members
-*
 
 ![community](/uploads/logo-hosizontal.png){: width="700" height="200"}
