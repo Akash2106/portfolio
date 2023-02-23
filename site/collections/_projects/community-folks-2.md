@@ -12,6 +12,8 @@ image: /uploads/travander-ii.png
 
 * Created the entire roadmap for the community part of the brand strategy
 * Helped design the website and write the copy
+* Helped design the marketing and operations plan
+* Helped create the investor pitch
 * Worked with the founders to ensure the community and brand visions are aligned
 * Strategised, planned and hosted the launch event of the community and&nbsp; the platform
 * Brought together potential inner circle members and created a strategy to activate them
