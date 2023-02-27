@@ -4,8 +4,6 @@ title: Community Folks
 subtitle: Community and Operations Head
 image: /uploads/cfk-logo-3.png
 ---
-## Community Folks
-
 ##### Sep, 2021 – March, 2022
 
 ### Community Manager
