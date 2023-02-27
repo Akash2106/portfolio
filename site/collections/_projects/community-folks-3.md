@@ -16,7 +16,7 @@ image: /uploads/audio-2941753.jpg
   * Collaborated with 15+ organizations and communities in the Web3 space
   * Collaborated with 20+ speakers representing as many organizations
   * Planned and executed 4 offline events across India
-* * Planned, executed and hosted 9 Twitter spaces with 1500+ attendees![](/uploads/img-9011.JPG){: width="6000" height="4000"}
+  * Planned, executed and hosted 9 Twitter spaces with 1500+ attendees![](/uploads/img-9011.JPG){: width="6000" height="4000"}
 * Successfully hosted 1st offline event of a Web3 gaming community in Jaipur, Rajasthan.
 * **Community Club Asia pacific event host** – Community Club is one of the biggest global community of community professionals across the world
   * Successfully hosted Asia pacific monthly event for 3 months![](/uploads/dec-asia-centered-hangout-1.png){: width="1200" height="630"}
