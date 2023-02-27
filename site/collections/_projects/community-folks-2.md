@@ -6,7 +6,7 @@ image: /uploads/travander-ii.png
 ---
 ## Travander
 
-##### March, 2021 - present
+##### March, 2022 - present
 
 ### Community Head and Founding Team Member
 
