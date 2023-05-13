@@ -10,7 +10,7 @@ image: /uploads/wendy-staat.jpg
 
 #### December, 2017 - September, 2021
 
-* Achieved monthly revenues gradually rising from $150 to $2000 amid cyclical nature of business.
-* Stakeholder management - managing expectations and deadlines from multiple clients within the same time frame.
+* Spearheaded a revenue growth from $150 to $2000 per month despite the cyclical nature of the business.
+* Successfully managed stakeholder expectations and deadlines for multiple clients simultaneously.
 
 ![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
